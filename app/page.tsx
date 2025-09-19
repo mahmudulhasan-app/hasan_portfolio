@@ -167,14 +167,20 @@ export default function Portfolio() {
                 View My Work
               </Button>
               
-              <Button
-                variant="outline"
-                size="lg"
-                className="border-white/30 text-white hover:bg-white/10 px-8 py-3"
-              >
-                <Download className="w-4 h-4 mr-2" />
-                Download CV
-              </Button>
+         <a 
+  href="/Rusume-Hasan.pdf" 
+  download="Hasan-CV.pdf"
+>
+  <Button
+    variant="outline"
+    size="lg"
+    className="border-white/30 text-white hover:bg-white/10 px-8 py-3"
+  >
+    <Download className="w-4 h-4 mr-2" />
+    Download CV
+  </Button>
+</a>
+
             </motion.div>
           </motion.div>
           
@@ -228,15 +234,16 @@ export default function Portfolio() {
               className="space-y-6"
             >
               <p className="text-lg text-white/80 leading-relaxed">
-               I'm a passionate software developer with over 1.5 years of experience creating innovative web and mobile applications. I specialize in Flutter development for building beautiful,
+               I'm a passionate software developer with over 1.5 years of experience creating innovative  mobile applications.
+                I specialize in Flutter development for building beautiful,
                 high-performance cross-platform apps,
-                 and also have experience with full-stack technologies and cloud platforms.
+                 and also have experience with full-stack technologies.
               </p>
               
               <p className="text-lg text-white/80 leading-relaxed">
-                My journey in tech started with curiosity about how things work behind the scenes. 
-                Today, I help businesses transform their ideas into powerful digital solutions 
-                that make a real impact.
+                My journey in technology started with a curiosity to know how things work behind the scenes.
+                  Today,
+              I solve many complex problems at CodeForce where my coding skills and work ethic play a big role in optimizing the code.
               </p>
               
               <div className="grid grid-cols-2 gap-6 pt-6">
