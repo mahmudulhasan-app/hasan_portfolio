@@ -36,7 +36,7 @@ const skillCategories = [
   },
     {
     title: "Problem solving",
-    icon: <Coding className="w-5 h-5" />,
+    icon: <Globe className="w-5 h-5" />,
     skills: ["C", "C++", "Data Structure","Algorithm"]
   }
 ];
