@@ -33,7 +33,7 @@ const skillCategories = [
     title: "Mobile",
     icon: <Smartphone className="w-5 h-5" />,
     skills: ["Flutter", "Android", "iOS"]
-  }
+  },
     {
     title: "Problem solving",
     icon: <Coding className="w-5 h-5" />,
