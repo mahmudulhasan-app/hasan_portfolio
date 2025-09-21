@@ -154,8 +154,8 @@ export default function Portfolio() {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="text-xl md:text-2xl text-white/80 mb-8 leading-relaxed"
             >
-              Software Developer crafting digital experiences with
-              <span className="text-blue-400"> modern technologies</span>
+             Competitive programmers try to solve every problem 
+              <span className="text-blue-400"> simply and perfectly.</span>
             </motion.p>
             
             <motion.div
