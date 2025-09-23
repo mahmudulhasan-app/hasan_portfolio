@@ -1,4 +1,5 @@
 'use client';
+import myPhoto from "../assets/myphoto.png"; 
 
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
@@ -195,7 +196,7 @@ export default function Portfolio() {
     className="border-white/30 text-white hover:bg-white/10 px-8 py-3"
   >
     <Download className="w-4 h-4 mr-2" />
-    Download CV
+    Download Resume
   </Button>
 </a>
 
@@ -237,7 +238,7 @@ export default function Portfolio() {
                 <div className="w-80 h-80 mx-auto rounded-2xl overflow-hidden border-4 border-white/10">
                   <img 
                     src="https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/482083538_973126278245842_7741667569145313304_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=j7myM5SzC60Q7kNvwFIr9IV&_nc_oc=AdkExHC0RztTmcY094EumSDtaf4xiSEOkj_yQouXHDZABMzRoMqeDWIPkachu0LS0zY&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=_3vho6xW-emApQs1JoSMMQ&oh=00_AfaX6CfQwRYVWgsn-IHMCp8IyDIJ6oUCyG_8rdNBy0AqGw&oe=68D0C196"
-                    alt="Mahmudul Hasan"
+                    alt="Mahmudul-Hasan"
                     className="w-full h-full object-cover"
                   />
                 </div>
