@@ -237,7 +237,7 @@ export default function Portfolio() {
               <div className="relative">
                 <div className="w-80 h-80 mx-auto rounded-2xl overflow-hidden border-4 border-white/10">
                   <img 
-                    src="https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/482083538_973126278245842_7741667569145313304_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=TcTQ9blgLDUQ7kNvwHTkdi9&_nc_oc=AdmMmB7wbTkKDrln2fcww3CZ8ddM2A5_ODDnUoQRM5dJSBkNO0cLRi6qszlR9SCz7Tk&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=cHMCLeQK00kzb0btoys-Tw&oh=00_Afb_TZxs0bsfbMU3FJs_h7CmmT0jb6C9uKaZWtrcCcoFAg&oe=68D801D6"
+                    src="https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/482083538_973126278245842_7741667569145313304_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=f-EytLO8SeQQ7kNvwEbIBLP&_nc_oc=AdlxVgR3AipI2bxTHH7WMTEK9Pd6_UBBgCOPsvxDjIMVQmf8stp8Lj8jxrk1OSfCfJI&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=CmRqNhohADpyoGrQD5nJUw&oh=00_AfajhMNSHjc3sUKkReRQsjp_ucVUZh4N5nt5B8NjCymYqg&oe=68DED196"
                     alt="Mahmudul-Hasan"
                     className="w-full h-full object-cover"
                   />
