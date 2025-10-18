@@ -80,7 +80,7 @@ const experience = [
     title: "COO",
     company: "ByteCamp",
     period: "2025 - In",
-    description: "I am cheif operating officer in ByteCamp right now."
+    description: "Operate the whole platform."
   },
 ];
 
@@ -237,7 +237,7 @@ export default function Portfolio() {
               <div className="relative">
                 <div className="w-80 h-80 mx-auto rounded-2xl overflow-hidden border-4 border-white/10">
                   <img 
-                    src="https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/494645639_1023030149922121_4020527443365989562_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gWqYQRLnp-sQ7kNvwH6fRUV&_nc_oc=AdkIctI4-XAGfDONfFSF8-FkvZGzYC27zDOEUTOozTa3kx937cpCVXGszM8Y5pjHWQI&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=w_7jnRNCmTQO_lwUok9oRA&oh=00_AfffHDuChrnjiDltg-xz70JCTehUPgTog7PaLsoQ-n4Uqw&oe=68F079C1"
+                    src="https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/486448489_984828940408909_5699240252573836960_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=2xaEG4qZrBMQ7kNvwFTHy0x&_nc_oc=AdnhGbPF6W1zQ-hjTpkrTRSnkLQcODj3NfLbQb5ORxkVhpWJJsieYPWjuW9xF8nXplI&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=W-ZSX7pNQiBgzjvEXt8RnQ&oh=00_AfeW_riy0ggGQlg-mJYFyAQiw9Czf9l1Rjx3bQhsvDWSAw&oe=68F9A8A1"
                     alt="Mahmudul-Hasan"
                     className="w-full h-full object-cover"
                   />
